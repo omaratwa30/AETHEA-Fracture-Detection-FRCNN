@@ -147,15 +147,6 @@ AETHEA-Fracture-Detection-FRCNN/
 ├── evaluation/
 │   └── Hips_and_Pelvis_Faster_R-CNN_Evaluate.ipynb
 │
-├── scripts/
-│   ├── dataset_sampling.py
-│   ├── outlier_filtering.py
-│   └── export_model.py
-│
-├── results/
-│   ├── hips_pelvis/
-│   └── shoulder_arm/
-│
 ├── requirements.txt
 ├── LICENSE
 └── README.md
