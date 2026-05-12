@@ -1,7 +1,7 @@
 # Arm and Shoulder Faster R-CNN Project Outputs
 
 ## Kaggle Notebook Output Link
-https://www.kaggle.com/code/andrewwageh111/arm-and-shoulder-faster-r-cnn-project/output?scriptVersionId=318558984&select=energy_co2_dashboard.png
+[View Kaggle Notebook Outputs](https://www.kaggle.com/code/andrewwageh111/arm-and-shoulder-faster-r-cnn-project/output?scriptVersionId=318558984&select=energy_co2_dashboard.png)
 
 ---
 
