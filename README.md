@@ -1,4 +1,4 @@
-# 🦴 AETHEA Fracture Detection System — Faster R-CNN Edition
+# 🦴 AETHEA Fracture Detection System — Faster R-CNN 
 
 ## Deep Learning for Automated X-Ray Fracture Analysis Using Detectron2
 
